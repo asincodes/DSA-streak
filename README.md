@@ -8,15 +8,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/asincodes/DSA-streak/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/asincodes/DSA-streak/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/asincodes/DSA-streak/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/asincodes/DSA-streak/tree/master/0075-sort-colors) |
+| [0349-intersection-of-two-arrays](https://github.com/asincodes/DSA-streak/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/asincodes/DSA-streak/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/asincodes/DSA-streak/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/asincodes/DSA-streak/tree/master/0349-intersection-of-two-arrays) |
 ## Quicksort
 |  |
 | ------- |
@@ -29,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/asincodes/DSA-streak/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/asincodes/DSA-streak/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -37,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/asincodes/DSA-streak/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/asincodes/DSA-streak/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
